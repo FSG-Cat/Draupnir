@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2026 Catalan Lover <catalanlover@protonmail.com>
 #
 # SPDX-License-Identifier: CC0-1.0
+# If this works its funny
 # This file is derived from the docker-hub-develop.yml workflow, but instead of pushing to Docker Hub, it pushes to GHCR. It also runs on all non excluded branches to allow easier access to development builds.
 
 name: "GHCR - All Non Excluded Branches"
