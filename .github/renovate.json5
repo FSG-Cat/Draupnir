@@ -5,7 +5,7 @@
 //
 // Automerges are false because we need to wait until we have seen this actually attempt to run before we approve it.
 // Automerges would anyways only be enabled for minor updates to workflows.
-//
+// Meow
 {
   extends: ["github>the-draupnir-project/.github:renovate-shared"],
   enabledManagers: ["github-actions"],
